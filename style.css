@@ -1,0 +1,32 @@
+body {
+    background-color: #D5E1EF;
+    font-family: 'Outfit', sans-serif;
+}
+
+.card-wrapper{
+    display: block;
+    background-color: white;
+    border-radius: 10px;
+    height: auto;
+    width: 300px;
+    text-align: center;
+    margin: 20vh auto 1rem auto;
+}
+
+.img-container {
+    display: flex;
+    height: 60%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1rem;
+}
+
+.text-content {
+    padding: 1rem;
+}
+
+.qr-img {
+    height: 100%;
+    width: 90%;
+    border-radius: 10px;
+}
